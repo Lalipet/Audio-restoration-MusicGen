@@ -4,5 +4,4 @@ A pipeline to enhance MusicGen audio quality through preprocessing, denoising an
 ## References
 https://huggingface.co/docs/transformers/model_doc/musicgen 
 https://github.com/timsainb/noisereduce
-
 https://github.com/brentspell/hifi-gan-bwe
