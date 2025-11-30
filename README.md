@@ -3,3 +3,4 @@ A pipeline to enhance MusicGen audio quality through preprocessing, denoising an
 
 ## References
 https://huggingface.co/docs/transformers/model_doc/musicgen 
+https://pypi.org/project/noisereduce/1.0.1/
