@@ -1,6 +1,8 @@
 # Audio-restoration-MusicGen
 A pipeline to enhance MusicGen audio quality through preprocessing, denoising and neural bandwidth extension
 
+- [Open in Colab](https://colab.research.google.com/drive/1ysrfihWQQXi3MT1K-hZEwmt9mtfDzJIu#scrollTo=egFs7Q0503X0)
+
 ## Project Overview  
 This project proposes a **post-processing restoration pipeline** that operates on generated audio without modifying the generative model itself.
 
