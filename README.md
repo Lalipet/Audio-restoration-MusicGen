@@ -19,4 +19,8 @@ The project is intended as an exploratory analysis of audio post-processing tech
 - https://github.com/facebookresearch/audiocraft
 - https://github.com/timsainb/noisereduce
 - https://github.com/brentspell/hifi-gan-bwe
- 
+
+
+ ## License
+This project is released under the MIT License.
+
