@@ -7,10 +7,12 @@ A pipeline to enhance MusicGen audio quality through preprocessing, denoising an
 This project proposes a **post-processing restoration pipeline** that operates on generated audio without modifying the generative model itself.
 
 The pipeline includes:
-1. **Audio generation using MusicGen**: select random prompts form a list with 5 prompts per genre
+1. **Audio generation using MusicGen**: select random prompts from a list with 5 prompts per genre
 2. **Peak normalization and high-pass filtering**
 3. **Denoising** with noisereduce
-4. **Neural bandwidth extension** using a HiFi-GAN–based model  
+4. **Neural bandwidth extension** using a HiFi-GAN–based model trained on speech, applied to music in a zero-shot setting.
+
+The project is intended as an exploratory analysis of audio post-processing techniques for generative music models.
 
 ---
 ## References
